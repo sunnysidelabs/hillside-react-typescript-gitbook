@@ -1,0 +1,17 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [TypeScript](typescript/README.md)
+  * [Best Practice: when converting string to number](typescript/best-practice-when-converting-string-to-number.md)
+* [React](react/README.md)
+  * [When to use Class Component and Functional Component?](react/when-to-use-class-component-and-functional-component.md)
+  * [Optimization: Functional Components by preventing wasted renders](react/optimization-functional-components-by-preventing-wasted-renders.md)
+  * [Optimization: Class Components by preventing wasted renders](react/optimization-class-components-by-preventing-wasted-renders.md)
+  * [Optimization: by preventing wasted renders on Complex Props](react/optimization-by-preventing-wasted-renders-on-complex-props.md)
+  * [Optimization: by caching expensive operations](react/optimization-by-caching-expensive-operations.md)
+  * [Optimization: reducing bundle size by lazy loading components on-demand](react/optimization-reducing-bundle-size-by-lazy-loading-components-on-demand.md)
+  * [Large Dataset: by windowing using react-window (RECOMMENDED)](react/large-dataset-by-windowing-using-react-window-recommended.md)
+  * [Large Dataset: by using pagination](react/large-dataset-by-using-pagination.md)
+  * [Large Dataset: by using infinite scroll](react/large-dataset-by-using-infinite-scroll.md)
+  * [When to use Pagination, Infinite Scroll, and Windowing?](react/when-to-use-pagination-infinite-scroll-and-windowing.md)
+  * [DON'T: use index as a key if the order of the items in the list can change](react/dont-use-index-as-a-key-if-the-order-of-the-items-in-the-list-can-change.md)

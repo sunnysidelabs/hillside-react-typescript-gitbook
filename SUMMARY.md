@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Welcome to Hillside](README.md)
 * [TypeScript](typescript/README.md)
   * [Best Practice: when converting string to number](typescript/best-practice-when-converting-string-to-number.md)
 * [React](react/README.md)
